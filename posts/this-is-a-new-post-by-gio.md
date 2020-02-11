@@ -6,3 +6,5 @@ tags:
   - post
 ---
 Hello this is my content!
+
+![](/static/img/25a.jpg)
